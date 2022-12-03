@@ -2,7 +2,7 @@
 
 This repository contains Python code for analyzing Indian Food Prices (1994 - 2022).
 
-Some key Questions are answered in the jypyter notebook file from the data.*
+Some key Questions are answered in the jypyter notebook file from the data by Descriptive analysis.*
 
 
 ## Data Scource
